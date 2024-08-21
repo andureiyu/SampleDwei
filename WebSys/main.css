@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #c88475;
+    text-align: center;
+}
+.text-box{
+    width: 90%;
+    color: #5b5e8b;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.text-box h1{
+     font-size: 72px;
+     text-align: center;
+}
+.text-box p{
+    margin: 10px 0 40px
+    
+}
+.chaeyoungshade{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url('img/e0270b70bf3fb6c9d120cac80b2f6aa7.jpg');
+    background-size: contain;
+    height: 350px;
+    width: 350px;
+    background-repeat: repeat;
+}
+.chiyongGIF{
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url(img/chaeyoung-twice.gif);
+    background-size: contain;
+    height: 350px;
+    width: 350px;
+    background-repeat: repeat;
+}
